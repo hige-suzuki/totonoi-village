@@ -18,3 +18,6 @@ Official Logo v1 採用
 
 ## D-0003
 GitHubを作品の正本とする
+
+## D-0004
+GitHub更新テスト2回目

@@ -194,7 +194,7 @@
 **素体基準:** Phase 1 Version 1.0  
 **スタッフ制服基準画像:** `../assets/characters/risle/phase2/reference/risle_phase2_staff_uniform_v1.0.png`  
 **私服基準画像:** `../assets/characters/risle/phase2/reference/risle_phase2_casual_v1.0.png`  
-**表情・動作基準画像:** `../assets/characters/risle/phase2/reference/risle_phase2_expressions_actions_v1.0.png`
+**ポーズ基準画像:** `../assets/characters/risle/phase2/reference/risle_phase2_poses_v1.0.png`
 
 - Phase 2では衣装、表情および動作だけを追加し、Phase 1の素体を変更しない。
 - 文章と正式基準画像が矛盾する場合は、正式基準画像を優先する。
